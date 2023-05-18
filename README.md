@@ -4,9 +4,9 @@ Dando início aos estudos ao DART e FLUTTER desenvolvi, juntamente com as orient
 
 ## Screenshots :camera_flash:
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/adelmoGama/expenses/blob/master/assets/screenshots/Screenshot_20230508-085515.jpg" width="300">&emsp;
-<img src="https://github.com/adelmoGama/expenses/blob/master/assets/screenshots/Screenshot_20230508-085530.jpg" width="300">&emsp;
-<img src="https://github.com/adelmoGama/expenses/blob/master/assets/screenshots/Screenshot_20230508-085505.jpg" width="300">&emsp;
+<img src="https://github.com/adelmoGama/expenses/blob/master/assets/screenshots/Screenshot_20230508-085515.jpg" width="200">&emsp;
+<img src="https://github.com/adelmoGama/expenses/blob/master/assets/screenshots/Screenshot_20230508-085530.jpg" width="200">&emsp;
+<img src="https://github.com/adelmoGama/expenses/blob/master/assets/screenshots/Screenshot_20230508-085505.jpg" width="200">&emsp;
 
 ## Technologies / Tools
 * DART/FLUTTER
